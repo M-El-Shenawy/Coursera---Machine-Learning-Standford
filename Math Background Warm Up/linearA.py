@@ -4,7 +4,7 @@ from numpy.linalg import inv
 Matrix Multiplication
 Ax = b
 with A = [ [ [4 , -5] , [-2 , 3] ] , b = [ [13] , [-9] ].
-A is 2x2 Matrix , B is 2*1 Matrix.
+A is 2x2 Matrix , B is 2x1 Matrix.
 """
 
 # Matrix Declaration in numpy
