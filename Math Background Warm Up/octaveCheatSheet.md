@@ -1,7 +1,7 @@
 Octave CheatSheet
 -----------------
-* This is the url of the original file  
-  [Github](https://gist.github.com/obstschale/7320846).
+* This is the [original virsion](https://gist.github.com/obstschale/7320846),
+  written by [obstschale](https://github.com/obstschale).  
    
 > GNU Octave is a high-level interpreted language, primarily intended for numerical computations.  
 > (via [GNU Octave](http://www.gnu.org/software/octave/))
