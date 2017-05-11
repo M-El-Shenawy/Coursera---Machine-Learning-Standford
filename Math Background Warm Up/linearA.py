@@ -18,6 +18,10 @@ B = np.array([[13], [-9]])
 C = np.dot(A, B)
 print "Multiplication of A,B:\n", C
 
+# Matrix Element wise Multiplication 
+C = np.multiply(A,B)
+print "Multiply of Elements of A,B:\n", C
+
 """
 Matrix addition, subtraction, scalar multiplication
 A = [ [1 , 2] , [3 , 4] ] , B = [ [5 , 6] , [7 , 8] ]
