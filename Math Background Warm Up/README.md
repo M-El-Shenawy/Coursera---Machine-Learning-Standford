@@ -10,6 +10,6 @@
 
 |    Subject   |   Python   |   Octave   |
 | -------------|:-------------:| -----:|
-| Linear Algebra | Done | Not yet |
+| Linear Algebra | Done | Done |
 | Probability      | Not yet      |   --- |
 | Calculus | Planed      |    --- |
